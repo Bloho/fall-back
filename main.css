@@ -7,10 +7,15 @@ html {
   body {
     margin: 0;
   }
-  
+
+ @font-face {
+    font-family: 'Editorial';
+    src: url(PPEditorialOld-Italic.otf);
+ }  
+
   @font-face {
     font-family: 'Helvetica';
-    src: url("PPMori-Regular.otf");
+    src: url(PPMori-Regular.otf);
  }  
 
 @font-face {
