@@ -13,6 +13,11 @@ html {
     src: url(../Woff2/Helvetica.ttf);
  }  
 
+@font-face {
+    font-family: 'Mori';
+    src: url(PPMori-Regular.otf);
+ }  
+
   article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
     display: block;
   }
