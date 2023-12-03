@@ -10,7 +10,7 @@ html {
   
   @font-face {
     font-family: 'Helvetica';
-    src: url(../Woff2/Helvetica.ttf);
+    src: url("PPMori-Regular.otf");
  }  
 
 @font-face {
