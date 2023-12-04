@@ -6734,17 +6734,4 @@ html {
     }
   }
   
-  #w-node-f37cceb8-788d-18da-6678-994cfe1e969f-fcc554f8, #w-node-f37cceb8-788d-18da-6678-994cfe1e96b7-fcc554f8, #w-node-f37cceb8-788d-18da-6678-994cfe1e96cf-fcc554f8, #w-node-f37cceb8-788d-18da-6678-994cfe1e96e7-fcc554f8, #w-node-f2a7eb83-2f27-22cc-49c0-130246cc4132-fcc554f8, #w-node-f37cceb8-788d-18da-6678-994cfe1e96ff-fcc554f8, #w-node-a8f8a0ba-28d7-4a86-d672-c56520420656-fcc554f8 {
-    align-self: start;
-    justify-self: end;
-  }
   
-  #w-node-f37cceb8-788d-18da-6678-994cfe1e9715-fcc554f8, #w-node-f37cceb8-788d-18da-6678-994cfe1e971e-fcc554f8, #w-node-f37cceb8-788d-18da-6678-994cfe1e9727-fcc554f8 {
-    grid-area: span 1 / span 1 / span 1 / span 1;
-  }
-  
-  @media screen and (max-width: 991px) {
-    #w-node-f37cceb8-788d-18da-6678-994cfe1e969f-fcc554f8, #w-node-f37cceb8-788d-18da-6678-994cfe1e96b7-fcc554f8, #w-node-f37cceb8-788d-18da-6678-994cfe1e96cf-fcc554f8, #w-node-f37cceb8-788d-18da-6678-994cfe1e96e7-fcc554f8, #w-node-f2a7eb83-2f27-22cc-49c0-130246cc4132-fcc554f8, #w-node-f37cceb8-788d-18da-6678-994cfe1e96ff-fcc554f8, #w-node-a8f8a0ba-28d7-4a86-d672-c56520420656-fcc554f8 {
-      justify-self: start;
-    }
-  }
