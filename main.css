@@ -13,6 +13,11 @@ html {
     src: url(PPEditorialOld-Italic.otf);
  }  
 
+@font-face {
+    font-family: 'PPRadio';
+    src: url(PPRadioGrotesk-Ultralight.otf);
+ }  
+
   @font-face {
     font-family: 'Helvetica';
     src: url(PPMori-Regular.otf);
