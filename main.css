@@ -8,6 +8,16 @@ html {
     margin: 0;
   }
 
+  @font-face {
+    font-family: 'Hatton Mid';
+    src: url(PPHatton-Medium.otf);
+ }  
+
+ @font-face {
+  font-family: 'Hatton Ultralight';
+  src: url(PPHatton-Ultralight.otf);
+}  
+
  @font-face {
     font-family: 'Editorial';
     src: url(PPEditorialOld-Italic.otf);
