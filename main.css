@@ -8,6 +8,11 @@ html {
     margin: 0;
   }
 
+  @font-face {
+    font-family: 'Hatton Italic ultralight';
+    src: url(PPHatton-UltralightItalic.otf);
+ } 
+
 @font-face {
     font-family: 'Acma Light';
     src: url(PPAcma-Light.otf);
